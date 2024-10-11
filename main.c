@@ -6,10 +6,10 @@ void test(int a) {
 }
 
 int main() {
-	int num=23, a, b=4;
+	int c=2, a, b2=4;
 	
 	printf("ok 2024");
     test(34);
-	++num;
+	++c;
     return 0;
 }
