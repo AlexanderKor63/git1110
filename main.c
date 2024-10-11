@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void solve(int a) {
+	
+	
+}
+
 int main() {
 	int c=2, a, b=11;
 	
