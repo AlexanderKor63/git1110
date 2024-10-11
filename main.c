@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 double solve(int a, int b, double d) {
-
+	printf("ok 2021");
 	return a+b/d;
 }
 
