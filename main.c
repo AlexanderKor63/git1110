@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void solve(int a) {
-	
+void solve(int a, int b, double d) {
+
 	
 }
 
