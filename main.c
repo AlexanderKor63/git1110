@@ -10,5 +10,6 @@ int main() {
 	
 	printf("ok 2024");
     test(34);
+	++num;
     return 0;
 }
