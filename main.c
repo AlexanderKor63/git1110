@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 void solve(int a, int b, double d) {
-
-	
+	printf("ok 2021");
+	printf("ok 2024");
+	return;
 }
 
 int main() {
