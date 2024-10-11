@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-void solve(int a, int b, double d) {
+double solve(int a, int b, double d) {
 	printf("ok 2021");
-	printf("ok 2024");
-	return;
+	return a+b/d;
 }
 
 int main() {
