@@ -6,7 +6,7 @@ void test(int a) {
 }
 
 int main() {
-	int num=23, a, b=4;
+	int num=13, a2, b=11;
 	
 	printf("ok 2024");
     test(34);
