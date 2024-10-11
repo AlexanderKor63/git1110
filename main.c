@@ -11,5 +11,6 @@ int main() {
 	printf("ok 2024");
     test(34);
 	++c;
+	a=c+b*b;
     return 0;
 }
