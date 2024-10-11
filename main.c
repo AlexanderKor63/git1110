@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-void solve(int a, int b, double d) {
+double solve(int a, int b, double d) {
 
-	
+	return a+b/d;
 }
 
 int main() {
