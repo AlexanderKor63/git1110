@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void solve(int a, int b) {
+	
+}
+
 int main() {
 	int c=2, a, b=11;
 	
